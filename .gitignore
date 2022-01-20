@@ -4,3 +4,7 @@
 *.class
 *.idea
 *.editorconfig
+
+.classpath
+.project
+.settings
